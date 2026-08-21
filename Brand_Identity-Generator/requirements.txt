@@ -1,0 +1,4 @@
+google-genai>=0.1.0
+matplotlib>=3.5.0
+pillow>=9.0.0
+python-dotenv>=1.0.0
